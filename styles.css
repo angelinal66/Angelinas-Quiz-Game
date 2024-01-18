@@ -1,0 +1,126 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.firstimg{
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+}
+
+.container{
+    text-align: center;
+    margin: 0px auto;
+    width: 1000px;
+}
+
+.nice {
+  
+    
+    
+}
+
+
+body{
+  background-image: url("https://wallpapers.com/images/hd/adventure-time-landscape-xnpwgnv2wde77hld.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: cover;
+
+
+}
+button{
+  width:200px;
+  height:50px;
+  margin-top: 20px;
+}
+p{
+   color:#e32b97;
+   border: 2px solid #e32b97;    
+    padding:15px;
+  background-color: lightpink;
+    
+
+
+}
+.firstimg{
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+  margin-top:20px;
+}
+.thirdimg{
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+  margin-top:20px;
+}
+h1{
+  color:#e32b97;
+}
+.pb{
+  display:none;
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+  margin-top:20px;
+
+}
+.jake{
+  display:none;
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+  margin-top:20px;
+    
+
+}
+.lsp{
+  display:none;
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+  margin-top:20px;
+
+}
+.marcey{
+  display:none;
+  height: 500px;
+  width: 600px;
+  border: 5px solid #e32b97;
+  margin-top:20px;
+
+}
+.jakeout{
+  display:none;
+   
+    
+}
+.pbout{
+  display:none;
+   
+
+}
+.marceyout{
+    display:none;
+}
+   
+.lspout{
+    display:none;
+    }
+    
+.counter{
+    display:none;
+    
+    
+}
+
+.secondquestion{
+
+  
+}
+
+.firstquestion{
+   text-align: center;
+}
+
